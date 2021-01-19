@@ -27,7 +27,7 @@
 ```
 note :
 1. Use `Theme.MaterialComponents.Light.DarkActionBar` as parent
-2. Change value item `colorSecondary`, `colorSecondaryVariant`, `colorOnSecondary`.
+2. Change value item `colorSecondary`, `colorSecondaryVariant`, `colorOnSecondary`. (Optional)
 3. Add `<item name="android:forceDarkAllowed" tools:targetApi="q">false</item>` in parent style item
 
 ---
