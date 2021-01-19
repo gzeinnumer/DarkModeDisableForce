@@ -1,7 +1,5 @@
 # DarkModeDisableForce
  
-- Delete `themes.xml(night)`
-
 - Change value in `themes.xml`
 ```xml
 <resources xmlns:tools="http://schemas.android.com/tools">
